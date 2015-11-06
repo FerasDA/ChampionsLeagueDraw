@@ -1,3 +1,3 @@
 # ChampionsLeagueDraw
 
-Randomly selects 4 match ups for the UCL final 8 draw
+Randomly generates possible match ups for the Champions League Knockoff stage
