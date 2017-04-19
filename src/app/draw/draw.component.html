@@ -5,3 +5,11 @@
     <span>{{team.name}}</span>
   </li>
 </ul>
+
+<button (click)="draw()">Draw</button>
+
+<ul>
+  <li *ngFor="let match of matches">
+    <span>{{match.homeTeam.name}} vs {{match.awayTeam.name}}</span>
+  </li>
+</ul>
