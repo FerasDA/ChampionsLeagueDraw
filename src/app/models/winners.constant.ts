@@ -22,13 +22,13 @@ export const winners: Team[] = [
         group: 'D'
     }, 
     {
-        name: 'Team 6', 
-        association: '',
+        name: 'Bayern München', 
+        association: 'GER',
         group: 'E'
     }, 
     {
-        name: 'Team 7', 
-        association: '',
+        name: 'Manchester City', 
+        association: 'ENG',
         group: 'F'
     }, 
     {
@@ -37,8 +37,8 @@ export const winners: Team[] = [
         group: 'G'
     }, 
     {
-        name: 'Team 8', 
-        association: '',
+        name: 'Juventus', 
+        association: 'ITA',
         group: 'H'
     }
 ]

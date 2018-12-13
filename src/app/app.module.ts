@@ -4,11 +4,13 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { PotsComponent } from './pots/pots.component';
+import { RoundOfSixteenComponent } from './round-of-sixteen/round-of-sixteen.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    PotsComponent
+    PotsComponent,
+    RoundOfSixteenComponent
   ],
   imports: [
     BrowserModule,
