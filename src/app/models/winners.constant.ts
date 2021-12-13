@@ -2,43 +2,43 @@ import { Team } from "./team.interface";
 
 export const winners: Team[] = [
     {
-        name: 'Borussia Dortmund', 
-        association: 'GER',
-        group: 'A'
+      name: 'Manchester City', 
+      association: 'ENG',
+      group: 'A'
+    }, 
+    {
+      name: 'Liverpool', 
+      association: 'ENG',
+      group: 'B'
     },
     {
-        name: 'Barcelona', 
-        association: 'ESP',
-        group: 'B'
+      name: 'Ajax', 
+      association: 'NED',
+      group: 'C'
+    },
+    {
+      name: 'Real Madrid', 
+      association: 'ESP',
+      group: 'D'
     }, 
     {
-        name: 'Paris Saint-Germain', 
-        association: 'FRA',
-        group: 'C'
+      name: 'Bayern München', 
+      association: 'GER',
+      group: 'E'
     }, 
     {
-        name: 'Porto', 
-        association: 'POR',
-        group: 'D'
-    }, 
+      name: 'Manchester United', 
+      association: 'ENG',
+      group: 'F'
+    },
     {
-        name: 'Bayern München', 
-        association: 'GER',
-        group: 'E'
-    }, 
+      name: 'Lille', 
+      association: 'FRA',
+      group: 'G'
+    },
     {
-        name: 'Manchester City', 
-        association: 'ENG',
-        group: 'F'
-    }, 
-    {
-        name: 'Real Madrid', 
-        association: 'ESP',
-        group: 'G'
-    }, 
-    {
-        name: 'Juventus', 
-        association: 'ITA',
-        group: 'H'
+      name: 'Juventus', 
+      association: 'ITA',
+      group: 'H'
     }
 ]
